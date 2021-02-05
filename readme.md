@@ -1,4 +1,4 @@
-# Nodejs Chat-Bot AI Backend logic 🚀
+# Nodejs Chat-Bot AI 🤖 Backend 🚀
 Simple Nodejs chat bot backend.
 
 ![WIT-AI](/img/fb-wit.png)
@@ -23,7 +23,7 @@ Download files, open a terminal inside the downloaded folder, run
 When ready run this cmd to start the backend listener.
 > npm run start
 
-[Video tutorial]()
-
-License MIT
-Author @lex gd ❤️
+* [Backend Video tutorial](https://youtu.be/wmP9rTgnVLA)
+- [Fron UI Video tutorial](https://youtu.be/V5eUrVMD7fg)
+#### License MIT
+##### Author @lex gd ❤️
